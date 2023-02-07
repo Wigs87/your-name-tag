@@ -10,8 +10,10 @@ On this repository you can write your gamer tag for people who play videogames
 
 | Platforme | Nickname | fav game | Gamertag |
 |-----------|----------|----------|----------|
-| Nintendo Switch | Wigs | The legend of zelda | SW-1872-7176-8504 |
-| Play Station | bbitofiufiu | Fortnite |  |
+| Nintendo Switch | Wigs        | The legend of zelda | SW-1872-7176-8504 |
+| Play Station    | bbitofiufiu | Fortnite            |                   |
 
+
+Play now!
 
 
